@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Fiona Harrigian
+subtitle: 
+email: fionaharrigian@u.boisestate.edu
+description: Welcome! I am PhD student at Boise State University interested in microbial ecology. For my dissertation, I am studying mechanisms of coexistence in microbial communities. I use synthetic microbial communities composed of bacteria, yeasts, and protozoa isolated from the fluid of the pitcher plant Sarracenia purpurea. 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
