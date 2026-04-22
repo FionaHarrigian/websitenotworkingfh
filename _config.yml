@@ -3,8 +3,8 @@ title: Fiona Harrigian
 subtitle: 
 email: fionaharrigian@u.boisestate.edu
 description: Welcome! I am PhD student at Boise State University interested in microbial ecology. For my dissertation, I am studying mechanisms of coexistence in microbial communities. I use synthetic microbial communities composed of bacteria, yeasts, and protozoa isolated from the fluid of the pitcher plant Sarracenia purpurea. 
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/fionaharrigian.github.io" # the subpath of your site, e.g. /blog
+url: "fionaharrigian.github.io"# the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
